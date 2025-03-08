@@ -317,7 +317,7 @@ GPBLHS SMAN 6 Tambun Selatan Present
             </div>
             
             <div class="duta-card">
-                <div class="duta-periode">Duta Lingkungan Periode 2021/2022</div>
+                <div class="duta-periode">Duta Lingkungan Periode 2022/2023</div>
                 <ul class="duta-list">
                     <li>Rizki Maulana - XII IPS 4</li>
                     <li>Vareza Maylina - XII IPA 5</li>
